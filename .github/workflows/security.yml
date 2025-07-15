@@ -11,7 +11,7 @@ on:
       - '**/package-lock.json'
       - '**/*.csproj'
       - '**/Dockerfile'
-      - '.github/workflows/*-ignore-list.xml'
+      - '.github/*-ignore-list.xml'
       - '.github/workflows/security.yml'
 
 jobs:
